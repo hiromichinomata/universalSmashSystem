@@ -62,3 +62,7 @@ For stages:
 * Extract the stage folder to stages
 
 Boy is that easy. It's just making them is the hard part at the moment!
+
+# fork notes
+* forked from https://github.com/digiholic/universalSmashSystem
+* z: yes
